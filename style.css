@@ -1,0 +1,140 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header-section {
+    background-image: url(../images/image-header.jpg);
+    background-size: contain;
+    width: 100%;
+    height: 1038px;
+    
+}
+
+.head-title {
+    font-size: 35px;
+    padding-top: 293px;
+    text-align: center;
+}
+.section-second {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.second-des {
+    width: 50%;
+    margin-top: 255px;
+}
+.head-title2 {
+    font-size: 45px;
+    font-weight: 800;
+    margin-left: 245px;
+    margin-right: 330px;
+    text-align: initial;
+    
+}
+.head-des {
+    text-align: justify;
+    margin-left: 240px;
+    margin-right: 244px;
+}
+.sec-img {
+    width: 952px;
+    height: 750px;
+}
+/*section-third*/
+
+.section-third {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+/*section-four*/
+.section-four {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.four-des{
+    width: 50%;
+   
+}
+.head-title3 {
+    text-align: center;
+    margin-top: -280px;
+}
+.head-des3 {
+    margin-left: 234px;
+    margin-right: 190px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+/*section-five*/
+.testmonial-section {
+    display: flex;
+    background-color: #FFFBF8;
+    padding: 71px 54px;
+}
+img.test-imgage {
+    margin-left: 165px;
+    border-radius: 50px;
+}
+.test-description {
+    margin-left: 93px;
+    margin-right: 93px;
+    text-align: justify;
+}
+.sign-title {
+    margin-left: 92px;
+    margin-top: 10px;
+}
+.testmonial-header {
+    text-align: center;
+    margin-top: 160px;
+    background-color: #FFFBF8;
+    padding-top: 135px;
+}
+h1.testmonial-header1 {
+    font-size: 50px;
+}
+
+/*Gallery section*/
+.gallery-section{
+    display: flex;
+    width: 100%;
+}
+img.images-sec {
+    width: 100%;
+}
+/*Footer section*/
+.footer-section {
+    background-color: aquamarine;
+    height: 280px;
+}
+.footer-title {
+    text-align: center;
+    color: brown;
+    padding-top: 100px;
+}
+
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 827px;
+    margin-top: 44px;
+}
+.nav > ul {
+    display: flex;
+    align-items: center;
+}
+.nav li{
+    list-style: none;
+    margin-right: 50px;
+  
+}
+.nav a{
+    text-decoration: none;
+    color:black;
+}
